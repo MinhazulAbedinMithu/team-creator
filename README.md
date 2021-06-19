@@ -1,4 +1,4 @@
-#### Project Name: Team Creator
+# Project Name: Team Creator
 
 ## Description:
 

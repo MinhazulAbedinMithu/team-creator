@@ -10,7 +10,7 @@ const Player = (props) => {
 		<Row className="player">
 			<Col md={4}>
 				<div className="img">
-					<img src={img} alt="Player image" className="img-fluid w-100" />
+					<img src={img} alt="Player" className="img-fluid w-100" />
 				</div>
 			</Col>
 			<Col md={8}>

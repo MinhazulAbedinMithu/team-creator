@@ -1,0 +1,137 @@
+[
+  {
+    "id": "bd-1",
+    "name" : "Shakib Al Hasan",
+    "country" : "Bangladesh",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+    "role" : "Batting Allrounder",
+    "salary" : 100000
+  },
+  {
+    "id": "bd-2",
+    "name" : "Mushfiqur Rahim",
+    "country" : "Bangladesh",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg",
+    "role" : "WK-Batsman",
+    "salary" : 50000
+  },
+  {"id": "bd-3",
+  "name" : "Mahmudullah",
+  "country" : "Bangladesh",
+  "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
+  "role" : "Batting Allrounder",
+  "salary" : 50000
+  },
+  {
+    "id": "bd-4",
+    "name" : "Mustafizur Rahman",
+    "country" : "Bangladesh",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
+    "role" : "Bowler",
+    "salary" : 70000
+  },
+  {
+    "id": "pk-1",
+    "name" : "Babar Azam",
+    "country" : "Pakistan",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170768/babar-azam.jpg",
+    "role" : "Batsman",
+    "salary" : 120000
+  },
+  {
+    "id": "pk-2",
+    "name" : "Hasan Ali",
+    "country" : "Pakistan",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170804/hasan-ali.jpg",
+    "role" : "Bowler",
+    "salary" : 80000
+  },
+  {
+    "id": "pk-3",
+    "name" : "Shoaib Malik",
+    "country" : "Pakistan",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170775/shoaib-malik.jpg",
+    "role" : "Batting Allrounder",
+    "salary" : 80000
+  },
+  {
+    "id": "pk-4",
+    "name" : "Mohammad Hafeez",
+    "country" : "Pakistan",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170776/mohammad-hafeez.jpg",
+    "role" : "Batting Allrounder",
+    "salary" : 70000
+  },
+  {
+    "id": "aus-1",
+    "name" : "David Warner",
+    "country" : "Australia",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170635/david-warner.jpg",
+    "role" : "Batsman",
+    "salary" : 130000
+  },
+  {
+    "id": "aus-2",
+    "name" : "Glenn Maxwell",
+    "country" : "Australia",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170641/glenn-maxwell.jpg",
+    "role" : "Batting Allrounder",
+    "salary" : 120000
+  },
+  {
+    "id": "aus-3",
+    "name" : "Pat Cummins",
+    "country" : "Australia",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/pat-cummins.jpg",
+    "role" : "Bowler",
+    "salary" : 90000
+  },
+  {
+    "id": "wi-1",
+    "name" : "Chris Gayle",
+    "country" : "West Indies",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg",
+    "role" : "Batsman",
+    "salary" : 140000
+  },
+  {
+    "id": "wi-2",
+    "name" : "Kieron Pollard",
+    "country" : "West Indies",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170810/nicholas-pooran.jpg",
+    "role" : "WK-Batsman",
+    "salary" : 80000
+  },
+  {
+    "id": "wi-4",
+    "name" : "Andre Russell",
+    "country" : "West Indies",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170821/andre-russell.jpg",
+    "role" : "Bowling Allrounder",
+    "salary" : 110000
+  },
+  {
+    "id": "nz-1",
+    "name" : "Trent Boult",
+    "country" : "New Zealand",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170747/trent-boult.jpg",
+    "role" : "Bowler",
+    "salary" : 120000
+  },
+  {
+    "id": "af-1",
+    "name" : "Hazratullah Zazai",
+    "country" : "Afghanistan",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170833/hazratullah-zazai.jpg",
+    "role" : "Batsman",
+    "salary" : 50000
+  },
+  {
+    "id": "af-2",
+    "name" : "Rashid Khan",
+    "country" : "Afghanistan",
+    "img" : "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170857/rashid-khan.jpg",
+    "role" : "Bowler",
+    "salary" : 90000
+  }
+]

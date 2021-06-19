@@ -1,0 +1,32 @@
+.selection-cart {
+	border: 2px solid rgb(47, 0, 255);
+	padding: 10px;
+	margin: 10px 0;
+	border-radius: 10px;
+	background-color: rgb(0, 45, 66);
+}
+.cart-title {
+	color: rgb(81, 255, 0);
+	text-align: center;
+}
+.cart-length {
+	text-align: center;
+}
+.cart-icon {
+	color: rgb(251, 255, 0);
+}
+.cart-sup {
+	color: red;
+}
+.player-ul {
+	list-style: none;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+.total-budget{
+  color: rgb(0, 255, 191);
+  border-top: 3px solid rgb(83, 2, 131);
+  padding-top: 10px;
+  margin-top: 10px;
+}

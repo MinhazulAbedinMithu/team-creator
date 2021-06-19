@@ -17,9 +17,15 @@ const SelectionStage = () => {
 		const uniqueCart = [...new Set(newCart)];
 		setCart(uniqueCart);
 	};
+
+	const handleRemovePlayer = (player) => {
+		const newCart = cart.filter((item) => item !== player);
+		setCart(newCart);
+	};
+
 	return (
 		<Row>
-			<Col md={8}>
+			<Col md={7}>
 				{players.map((player) => (
 					<Player
 						player={player}
@@ -28,8 +34,11 @@ const SelectionStage = () => {
 					></Player>
 				))}
 			</Col>
-			<Col md={4}>
-				<SelectionCart cart={cart}></SelectionCart>
+			<Col md={5}>
+				<SelectionCart
+					cart={cart}
+					handleRemovePlayer={handleRemovePlayer}
+				></SelectionCart>
 			</Col>
 		</Row>
 	);
